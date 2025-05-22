@@ -4,6 +4,21 @@
 
 ---
 
+## 📊 Panel Layout
+
+The panel allows real-time control over:
+
+- Timeframe (`TF`)
+- Lot Size
+- Stop Loss
+- Take Profits (TP1–TP5)
+- Buy/Sell checkboxes
+- Trade/Close buttons
+
+![Trade Panel UI](./UI.png)
+
+---
+
 ## 📦 Features
 
 - **Interactive Trade Panel**:
