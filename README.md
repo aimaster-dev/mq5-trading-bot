@@ -115,12 +115,6 @@ The panel allows real-time control over:
 
 ---
 
-## 📄 License
-
-This project is licensed for educational and personal use. Not for commercial distribution.
-
----
-
 ## 🙌 Acknowledgments
 
 - MetaQuotes (MT5)
